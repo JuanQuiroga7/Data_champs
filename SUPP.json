@@ -1,0 +1,122 @@
+[
+    {
+        "Ranking": 1,
+        "Campeon": "Sett",
+        "Icono": "nautilus_icon.png",
+        "Win rate": "54.53%",
+        "Pick rate": "2.47%",
+        "Ban rate": "9.52%"
+    },
+    {
+        "Ranking": 2,
+        "Campeon": "Yuumi",
+        "Icono": "yuumi_icon.png",
+        "Win rate": "53.00%",
+        "Pick rate": "11.55%",
+        "Ban rate": "35.52%"
+    },
+    {
+        "Ranking": 3,
+        "Campeon": "Sona",
+        "Icono": "lulu_icon.png",
+        "Win rate": "52.91%",
+        "Pick rate": "4.39%",
+        "Ban rate": "0.24%"
+    },
+    {
+        "Ranking": 4,
+        "Campeon": "Karma",
+        "Icono": "janna_icon.png",
+        "Win rate": "52.45%",
+        "Pick rate": "7.40%",
+        "Ban rate": "0.83%"
+    },
+    {
+        "Ranking": 5,
+        "Campeon": "Janna",
+        "Icono": "nami_icon.png",
+        "Win rate": "52.37%",
+        "Pick rate": "3.44%",
+        "Ban rate": "0.16%"
+    },
+    {
+        "Ranking": 6,
+        "Campeon": "Soraka",
+        "Icono": "soraka_icon.png",
+        "Win rate": "52.35%",
+        "Pick rate": "5.81%",
+        "Ban rate": "1.56%"
+    },
+    {
+        "Ranking": 7,
+        "Campeon": "Brand",
+        "Icono": "brand_icon.png",
+        "Win rate": "52.27%",
+        "Pick rate": "2.67%",
+        "Ban rate": "4.49%"
+    },
+    {
+        "Ranking": 8,
+        "Campeon": "Lux",
+        "Icono": "lux_icon.png",
+        "Win rate": "52.17%",
+        "Pick rate": "15.77%",
+        "Ban rate": "37.80%"
+    },
+    {
+        "Ranking": 9,
+        "Campeon": "Leona",
+        "Icono": "leona_icon.png",
+        "Win rate": "51.97%",
+        "Pick rate": "11.97%",
+        "Ban rate": "3.93%"
+    },
+    {
+        "Ranking": 10,
+        "Campeon": "Blitzcrank",
+        "Icono": "blitzcrank_icon.png",
+        "Win rate": "51.91%",
+        "Pick rate": "7.27%",
+        "Ban rate": "0.89%"
+    },
+    {
+        "Ranking": 11,
+        "Campeon": "Senna",
+        "Icono": "thresh_icon.png",
+        "Win rate": "51.41%",
+        "Pick rate": "4.49%",
+        "Ban rate": "0.19%"
+    },
+    {
+        "Ranking": 12,
+        "Campeon": "Tresh",
+        "Icono": "morgana_icon.png",
+        "Win rate": "51.31%",
+        "Pick rate": "18.57%",
+        "Ban rate": "13.54%"
+    },
+    {
+        "Ranking": 13,
+        "Campeon": "Nami",
+        "Icono": "senna_icon.png",
+        "Win rate": "51.14%",
+        "Pick rate": "6.29%",
+        "Ban rate": "0.08%"
+    },
+    {
+        "Ranking": 14,
+        "Campeon": "Seraphine",
+        "Icono": "sona_icon.png",
+        "Win rate": "51.13%",
+        "Pick rate": "8.45%",
+        "Ban rate": "0.68%"
+    },
+    {
+        "Ranking": 15,
+        "Campeon": "Morgana",
+        "Icono": "morgana_icon.png",
+        "Win rate": "50.86%",
+        "Pick rate": "6.77%",
+        "Ban rate": "7.73%"
+    }
+]

@@ -1,0 +1,121 @@
+[
+    {
+        "Ranking": 1,
+        "Campeon": "Dr. Mundo",
+        "Icono": "dr_mundo_icon.png",
+        "Win rate": "55.43%",
+        "Pick rate": "2.42%",
+        "Ban rate": "50.05%"
+    },
+    {
+        "Ranking": 2,
+        "Campeon": "Morgana",
+        "Icono": "morgana_icon.png",
+        "Win rate": "54.85%",
+        "Pick rate": "2.64%",
+        "Ban rate": "7.73%"
+    },
+    {
+        "Ranking": 3,
+        "Campeon": "Tryndamere",
+        "Icono": "tryndamere_icon.png",
+        "Win rate": "53.98%",
+        "Pick rate": "8.31%",
+        "Ban rate": "8.41%"
+    },
+    {
+        "Ranking": 4,
+        "Campeon": "Shen",
+        "Icono": "shen_icon.png",
+        "Win rate": "53.41%",
+        "Pick rate": "1.11%",
+        "Ban rate": "0.15%"
+    },
+    {
+        "Ranking": 5,
+        "Campeon": "Rammus",
+        "Icono": "rammus_icon.png",
+        "Win rate": "52.91%",
+        "Pick rate": "1.83%",
+        "Ban rate": "0.20%"
+    },
+    {
+        "Ranking": 6,
+        "Campeon": "Vi",
+        "Icono": "vi_icon.png",
+        "Win rate": "52.60%",
+        "Pick rate": "6.54%",
+        "Ban rate": "0.11%"
+    },
+    {
+        "Ranking": 7,
+        "Campeon": "Shyvana",
+        "Icono": "shyvana_icon.png",
+        "Win rate": "52.52%",
+        "Pick rate": "4.23%",
+        "Ban rate": "0.11%"
+    },
+    {
+        "Ranking": 8,
+        "Campeon": "Fiddlesticks",
+        "Icono": "fiddlesticks_icon.png",
+        "Win rate": "52.44%",
+        "Pick rate": "4.12%",
+        "Ban rate": "3.57%"
+    },
+    {
+        "Ranking": 9,
+        "Campeon": "Gwen",
+        "Icono": "gwen_icon.png",
+        "Win rate": "52.37%",
+        "Pick rate": "2.85%",
+        "Ban rate": "1.32%"
+    },
+    {
+        "Ranking": 10,
+        "Campeon": "Fizz",
+        "Icono": "fizz_icon.png",
+        "Win rate": "52.37%",
+        "Pick rate": "4.14%",
+        "Ban rate": "4.84%"
+    },
+    {
+        "Ranking": 11,
+        "Campeon": "Kayn",
+        "Icono": "kayn_icon.png",
+        "Win rate": "52.36%",
+        "Pick rate": "10.12%",
+        "Ban rate": "3.89%"
+    },
+    {
+        "Ranking": 12,
+        "Campeon": "Yone",
+        "Icono": "yone_icon.png",
+        "Win rate": "52.30%",
+        "Pick rate": "4.23%",
+        "Ban rate": "6.19%"
+    },
+    {
+        "Ranking": 13,
+        "Campeon": "Xin Zhao",
+        "Icono": "xin_zhao_icon.png",
+        "Win rate": "52.28%",
+        "Pick rate": "15.57%",
+        "Ban rate": "1.76%"
+    },
+    {
+        "Ranking": 14,
+        "Campeon": "Warwick",
+        "Icono": "warwick_icon.png",
+        "Win rate": "52.02%",
+        "Pick rate": "3.18%",
+        "Ban rate": "0.14%"
+    },
+    {
+        "Ranking": 15,
+        "Campeon": "Jarvan IV",
+        "Icono": "jarvan_iv_icon.png",
+        "Win rate": "51.93%",
+        "Pick rate": "5.40%"
+    }
+]

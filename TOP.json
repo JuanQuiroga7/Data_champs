@@ -1,0 +1,107 @@
+[
+    {
+        "Ranking": 1,
+        "Campeon": "Sett",
+        "Win rate": "56.32%",
+        "Pick rate": "19.80%",
+        "Ban rate": "9.52%"
+    },
+    {
+        "Ranking": 2,
+        "Campeon": "Dr Mundo",
+        "Win rate": "56.13%",
+        "Pick rate": "12.30%",
+        "Ban rate": "50.05%"
+    },
+    {
+        "Ranking": 3,
+        "Campeon": "Teemo",
+        "Win rate": "55.44%",
+        "Pick rate": "7.98%",
+        "Ban rate": "12.45%"
+    },
+    {
+        "Ranking": 4,
+        "Campeon": "Kennen",
+        "Win rate": "54.69%",
+        "Pick rate": "2.54%",
+        "Ban rate": "0.88%"
+    },
+    {
+        "Ranking": 5,
+        "Campeon": "Shen",
+        "Win rate": "53.82%",
+        "Pick rate": "2.90%",
+        "Ban rate": "0.15%"
+    },
+    {
+        "Ranking": 6,
+        "Campeon": "Urgot",
+        "Win rate": "52.65%",
+        "Pick rate": "5.19%",
+        "Ban rate": "0.72%"
+    },
+    {
+        "Ranking": 7,
+        "Campeon": "Tristana",
+        "Win rate": "52.24%",
+        "Pick rate": "1.41%",
+        "Ban rate": "0.14%"
+    },
+    {
+        "Ranking": 8,
+        "Campeon": "Caitlyn",
+        "Win rate": "52.16%",
+        "Pick rate": "1.81%",
+        "Ban rate": "2.54%"
+    },
+    {
+        "Ranking": 9,
+        "Campeon": "Volibear",
+        "Win rate": "51.66%",
+        "Pick rate": "4.35%",
+        "Ban rate": "1.96%"
+    },
+    {
+        "Ranking": 10,
+        "Campeon": "Ornn",
+        "Win rate": "51.60%",
+        "Pick rate": "4.24%",
+        "Ban rate": "0.50%"
+    },
+    {
+        "Ranking": 11,
+        "Campeon": "Vayne",
+        "Win rate": "51.42%",
+        "Pick rate": "2.55%",
+        "Ban rate": "2.88%"
+    },
+    {
+        "Ranking": 12,
+        "Campeon": "Tryndamare",
+        "Win rate": "51.37%",
+        "Pick rate": "2.96%",
+        "Ban rate": "8.41%"
+    },
+    {
+        "Ranking": 13,
+        "Campeon": "Gwen",
+        "Win rate": "50.93%",
+        "Pick rate": "2.94%",
+        "Ban rate": "1.32%"
+    },
+    {
+        "Ranking": 14,
+        "Campeon": "Kayle",
+        "Win rate": "50.84%",
+        "Pick rate": "2.36%",
+        "Ban rate": "0.09%"
+    },
+    {
+        "Ranking": 15,
+        "Campeon": "Yone",
+        "Win rate": "50.51%",
+        "Pick rate": "10.14%",
+        "Ban rate": "6.19%"
+    }]
+    

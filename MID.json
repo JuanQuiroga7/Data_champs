@@ -1,0 +1,122 @@
+[
+    {
+        "Ranking": 1,
+        "Campeon": "Kennen",
+        "Icono": "volibear_icon.png",
+        "Win rate": "56.94%",
+        "Pick rate": "3.79%",
+        "Ban rate": "0.88%"
+    },
+    {
+        "Ranking": 2,
+        "Campeon": "Aurelion Sol",
+        "Icono": "aurelion_sol_icon.png",
+        "Win rate": "56.03%",
+        "Pick rate": "11.26%",
+        "Ban rate": "68.58%"
+    },
+    {
+        "Ranking": 3,
+        "Campeon": "Teemo",
+        "Icono": "teemo_icon.png",
+        "Win rate": "54.88%",
+        "Pick rate": "2.88%",
+        "Ban rate": "12.45%"
+    },
+    {
+        "Ranking": 4,
+        "Campeon": "Brand",
+        "Icono": "brand_icon.png",
+        "Win rate": "54.59%",
+        "Pick rate": "8.00%",
+        "Ban rate": "4.49%"
+    },
+    {
+        "Ranking": 5,
+        "Campeon": "Syndra",
+        "Icono": "malzahar_icon.png",
+        "Win rate": "54.55%",
+        "Pick rate": "13.50%",
+        "Ban rate": "34.85%"
+    },
+    {
+        "Ranking": 6,
+        "Campeon": "Ziggs",
+        "Icono": "ziggs_icon.png",
+        "Win rate": "52.88%",
+        "Pick rate": "6.49%",
+        "Ban rate": "0.71%"
+    },
+    {
+        "Ranking": 7,
+        "Campeon": "Twisted Fate",
+        "Icono": "jayce_icon.png",
+        "Win rate": "52.61%",
+        "Pick rate": "6.78%",
+        "Ban rate": "0.23%"
+    },
+    {
+        "Ranking": 8,
+        "Campeon": "Orianna",
+        "Icono": "orianna_icon.png",
+        "Win rate": "52.12%",
+        "Pick rate": "3.88%",
+        "Ban rate": "0.14%"
+    },
+    {
+        "Ranking": 9,
+        "Campeon": "Lux",
+        "Icono": "lux_icon.png",
+        "Win rate": "51.85%",
+        "Pick rate": "5.31%",
+        "Ban rate": "37.80%"
+    },
+    {
+        "Ranking": 10,
+        "Campeon": "Annie",
+        "Icono": "diana_icon.png",
+        "Win rate": "51.79%",
+        "Pick rate": "2.36%",
+        "Ban rate": "0.09%"
+    },
+    {
+        "Ranking": 11,
+        "Campeon": "Zyra",
+        "Icono": "zyra_icon.png",
+        "Win rate": "51.78%",
+        "Pick rate": "3.46%",
+        "Ban rate": "23.54%"
+    },
+    {
+        "Ranking": 12,
+        "Campeon": "Zoe",
+        "Icono": "syndra_icon.png",
+        "Win rate": "51.62%",
+        "Pick rate": "2.35%",
+        "Ban rate": "1.15%"
+    },
+    {
+        "Ranking": 13,
+        "Campeon": "Seraphine",
+        "Icono": "sona_icon.png",
+        "Win rate": "51.41%",
+        "Pick rate": "1.96%",
+        "Ban rate": "0.68%"
+    },
+    {
+        "Ranking": 14,
+        "Campeon": "Ahri",
+        "Icono": "ahri_icon.png",
+        "Win rate": "51.38%",
+        "Pick rate": "3.13%",
+        "Ban rate": "0.04%"
+    },
+    {
+        "Ranking": 15,
+        "Campeon": "Morgana",
+        "Icono": "morgana_icon.png",
+        "Win rate": "51.35%",
+        "Pick rate": "5.15%",
+        "Ban rate": "7.73%"
+    }
+]

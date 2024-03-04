@@ -1,0 +1,122 @@
+[
+    {
+        "Ranking": 1,
+        "Campeon": "Sivir",
+        "Icono": "leona_icon.png",
+        "Win rate": "53.91%",
+        "Pick rate": "9.41%",
+        "Ban rate": "0.41%"
+    },
+    {
+        "Ranking": 2,
+        "Campeon": "Caitlyn",
+        "Icono": "caitlyn_icon.png",
+        "Win rate": "52.79%",
+        "Pick rate": "28.22%",
+        "Ban rate": "2.54%"
+    },
+    {
+        "Ranking": 3,
+        "Campeon": "Twitch",
+        "Icono": "miss_fortune_icon.png",
+        "Win rate": "52.73%",
+        "Pick rate": "6.08%",
+        "Ban rate": "2.09%"
+    },
+    {
+        "Ranking": 4,
+        "Campeon": "Zeri",
+        "Icono": "jinx_icon.png",
+        "Win rate": "51.80%",
+        "Pick rate": "5.44%",
+        "Ban rate": "0.07%"
+    },
+    {
+        "Ranking": 5,
+        "Campeon": "Ashe",
+        "Icono": "ashe_icon.png",
+        "Win rate": "51.72%",
+        "Pick rate": "5.29%",
+        "Ban rate": "0.08%"
+    },
+    {
+        "Ranking": 6,
+        "Campeon": "Jinx",
+        "Icono": "sivir_icon.png",
+        "Win rate": "51.66%",
+        "Pick rate": "10.59%",
+        "Ban rate": "0.15%"
+    },
+    {
+        "Ranking": 7,
+        "Campeon": "Jhin",
+        "Icono": "jhin_icon.png",
+        "Win rate": "51.46%",
+        "Pick rate": "7.27%",
+        "Ban rate": "0.04%"
+    },
+    {
+        "Ranking": 8,
+        "Campeon": "Miss Fortune",
+        "Icono": "miss_fortune_icon.png",
+        "Win rate": "51.39%",
+        "Pick rate": "15.88%",
+        "Ban rate": "0.51%"
+    },
+    {
+        "Ranking": 9,
+        "Campeon": "Ezreal",
+        "Icono": "ezreal_icon.png",
+        "Win rate": "51.06%",
+        "Pick rate": "14.08%",
+        "Ban rate": "0.30%"
+    },
+    {
+        "Ranking": 10,
+        "Campeon": "Vayne",
+        "Icono": "vayne_icon.png",
+        "Win rate": "50.97%",
+        "Pick rate": "9.02%",
+        "Ban rate": "2.88%"
+    },
+    {
+        "Ranking": 11,
+        "Campeon": "Draven",
+        "Icono": "draven_icon.png",
+        "Win rate": "50.67%",
+        "Pick rate": "16.18%",
+        "Ban rate": "11.65%"
+    },
+    {
+        "Ranking": 12,
+        "Campeon": "Tristana",
+        "Icono": "tristana_icon.png",
+        "Win rate": "50.62%",
+        "Pick rate": "7.99%",
+        "Ban rate": "0.14%"
+    },
+    {
+        "Ranking": 13,
+        "Campeon": "Xayah",
+        "Icono": "kaisa_icon.png",
+        "Win rate": "50.51%",
+        "Pick rate": "9.31%",
+        "Ban rate": "0.48%"
+    },
+    {
+        "Ranking": 14,
+        "Campeon": "Varus",
+        "Icono": "varus_icon.png",
+        "Win rate": "50.51%",
+        "Pick rate": "8.63%",
+        "Ban rate": "0.32%"
+    },
+    {
+        "Ranking": 15,
+        "Campeon": "Lucian",
+        "Icono": "lucian_icon.png",
+        "Win rate": "49.96%",
+        "Pick rate": "10.26%",
+        "Ban rate": "0.26%"
+    }
+]
